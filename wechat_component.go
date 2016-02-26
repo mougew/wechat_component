@@ -1,7 +1,7 @@
 package wechat
 
 import (
-	"git.ishopex.cn/xushuai/wechat/lib"
+	"lib"
 
 	"fmt"
 )
