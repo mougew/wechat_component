@@ -1,7 +1,7 @@
 package wechat
 
 import (
-	"wechat/lib"
+	"github.com/mougew/wechat_component/lib"
 
 	"fmt"
 )
