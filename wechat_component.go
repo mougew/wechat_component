@@ -1,7 +1,7 @@
 package wechat
 
 import (
-	"lib"
+	"wechat/lib"
 
 	"fmt"
 )
